@@ -20,4 +20,5 @@ go to github.com and see it there" B.R
 I also read a few articles and watched some Youtube Videos here are the links:
 https://code.visualstudio.com/docs/sourcecontrol/intro-to-git
 https://www.git-tower.com/learn/git/ebook/en/command-line/basics/working-on-your-project#:~:text=untracked%3A%20a%20file%20that%20is,%22)%20changes%20to%20this%20file.
+https://graphite.dev/guides/how-to-push-code-from-vscode-to-github
 After a lot of struggle, i decided it is easier to start over this time within Git than the other way around. Rework!!! Not fun!!! I know. Hope this helps.
