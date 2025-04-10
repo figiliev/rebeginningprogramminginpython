@@ -4,7 +4,7 @@ An interactive Python project using `turtle` graphics that turns your college co
 
 ## 📸 Preview
 
-![Screenshot or GIF Placeholder](https://github.com/figiliev/rebeginningprogramminginpython/blob/main/screenshot.png)
+![Turtle Tracker Screenshot](turtle_demo.png)
 
 ---
 
